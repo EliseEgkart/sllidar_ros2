@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# RPLIDAR C1's Test is Done!
 
 import os
 
